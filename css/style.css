@@ -1,0 +1,24 @@
+body{
+	background-color: #787878;
+}
+p{
+	color: white;
+}
+h2{
+	color: #69C952;
+}
+
+img {
+	max-width: 100%;
+}
+
+.jumbotron{
+	background-color: #00F6FF;
+	background-image: url('http://media.moddb.com/images/articles/1/169/168064/auto/cool-minecraft-logo-png-fnytermf.png');
+	background-size: cover;	
+	height: 400px;
+}
+.jumbotron h1{
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}

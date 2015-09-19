@@ -1,0 +1,24 @@
+body {
+    background-color: #848484;
+}
+
+.mining {
+	background-image: url('http://vignette1.wikia.nocookie.net/theeverythingeverything/images/7/70/Minecraft_Diamond_Ore_Real.jpg/revision/latest?cb=20120511101615');
+	margin-bottom: 0;
+}
+
+.mine {
+	background-color: #848484;
+}
+
+.miner h2,
+.tutorials h2 {
+	color: #25727d;
+}
+
+.tut-vid {
+	height: 300px;
+	text-align: center;
+	margin: 1em auto;
+}
+

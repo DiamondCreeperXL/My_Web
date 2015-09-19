@@ -1,0 +1,14 @@
+.jumbotron{
+	background-image: url(../img/figting.jpg);
+}
+
+*{
+	font-family: 'Muli' , sans-serif;
+}
+h2{
+	color: #348BD3;
+}
+
+body{
+	background-color:#000;
+}
